@@ -14,7 +14,7 @@
     <div class="video-container">
         <h2>Video Representation</h2>
         <a href="https://www.linkedin.com/posts/aritrachats_gamedevelopment-unity3d-csharp-activity-7303437713796472832-i5YZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXr5qIB46KeZOu5TD7zIFCJFpyS7eunqSI" target="_blank">
-            <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://www.linkedin.com/posts/aritrachats_gamedevelopment-unity3d-csharp-activity-7303437713796472832-i5YZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXr5qIB46KeZOu5TD7zIFCJFpyS7eunqSI" alt="Watch the Video" style="width: 80%; max-width: 600px; border-radius: 5px;">
+            <img src="https://www.linkedin.com/posts/aritrachats_gamedevelopment-unity3d-csharp-activity-7303437713796472832-i5YZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXr5qIB46KeZOu5TD7zIFCJFpyS7eunqSI" alt="Watch the Video" style="width: 80%; max-width: 600px; border-radius: 5px;">
         </a>
     </div>
     <div class="contact">
