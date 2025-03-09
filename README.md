@@ -21,11 +21,5 @@
         <h2>Contact Information</h2>
         <p>For further assistance, feel free to reach out via email: <a href="mailto:aritrathegamer05@gmail.com" style="color: white;">aritrathegamer05@gmail.com</a></p>
     </div>
-    <div class="footer">
-        <h2>Contributing</h2>
-        <p>If you'd like to contribute to this project, please fork the repository and submit a pull request.</p>
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-    </div>
 </body>
 </html>
